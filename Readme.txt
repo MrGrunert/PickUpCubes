@@ -1,0 +1,1 @@
+You have to pick up all cube to win the game..
